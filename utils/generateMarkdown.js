@@ -1,10 +1,11 @@
+//--Adding a function called renderLicenseBadge() that takes a license parameter as input and returns a string--//
 function renderLicenseBadge(license) {
     if (license !== 'None') {
       return `![GitHub license](https://img.shields.io/badge/license-${license}-blue.svg)`;
     }
     return '';
   }
-
+//-- function called renderLicenseSection() that takes a license parameter as input and returns a string --//
   function renderLicenseSection(license) {
     if (license !== 'None') {
       return `## License
@@ -13,23 +14,15 @@ function renderLicenseBadge(license) {
     }
     return '';
   }
-
-  function renderLicenseSection(license) {
-    if (license !== 'None') {
-      return `## License
-  
-  This project is licensed under the ${license} license.`;
-    }
-    return '';
-  }
-
+//-- Adding a function called renderLicenseLink() that takes a license parameter as input and returns a string --//
   function renderLicenseLink(license) {
     if (license !== 'None') {
       return `\n* [License](#license)\n`;
     }
     return '';
   }
-
+//-- This code exports a function generateReadMe that takes in an object data as an argument and returns a string --//
+//-- The generateReadMe function uses template literals to interpolate the values of data into the README string --//
   function generateReadMe (data) {
     return `# ${data.title}
 ${renderLicenseBadge(data.license)}
