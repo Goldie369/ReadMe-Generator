@@ -1,14 +1,14 @@
 {
-  "name": "readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "ReadMe-Generator-Homework",
+  "description": "ReadMe Generator Homework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Goldie Rizova",
+  "author": "Goldie369",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2"
+    "inquirer": "8.2.4"
   }
 }
