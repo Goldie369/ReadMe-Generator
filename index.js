@@ -1,8 +1,9 @@
+//-- Adding inquirer and fs modules to generate a README --//
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 
-
+//-- Adding array of questions for user input --//
 const questions = [
     {
         type: 'input', 
@@ -66,7 +67,8 @@ const questions = [
        
     },
 ]
-
+//-- Adding a typo & generateMarkdown is defined as generate GenReadMe --//
+//-- Adding a questions variable that contains an array of objects that define the questions to be asked--//
 function init() {
     inquirer
   .prompt(questions)
