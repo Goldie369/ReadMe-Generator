@@ -66,3 +66,20 @@ const questions = [
        
     },
 ]
+
+function init() {
+    inquirer
+  .prompt(questions)
+  .then((answers) => {
+    console.log(answers)
+    const fileName = 'GenREADME.md'
+    const information = generateMarkdown(answers)
+    console.log(information)
+
+    fs.writeFile(fileName, information, (err) => 
+      err ? console.log(err) : console.log('Success!')
+    );
+  })
+}
+//-- Adding a function called init() that prompts the user with questions using the inquirer--//
+init();
