@@ -6,7 +6,7 @@
 
 The generated README file contains the following sections:
 
-Title of the Project
+Title 
 Description
 Table of Contents
 Installation
@@ -31,7 +31,7 @@ Questions
 
 - [Contributing](#Contributing)
 
-* [License](#license)
+- [License](#license)
 
 - [Test](#Test)
 
@@ -39,8 +39,12 @@ Questions
 
 - [Email](#Email)
     
+When the user chooses a license from a list of options,the badge with the license link will be displayed at the top of the readme file.
 
-    
+The questions section contains information on how to get in touch and the developer's email address and GitHub profile link.
+
+
+
 ## Questions
   
 If you have any questions or comments please contact me at [](). If you're interested in checking out any of my other projects, visit [My github](http://github.com/Goldie369).
