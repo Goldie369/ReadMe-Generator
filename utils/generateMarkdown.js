@@ -67,7 +67,7 @@ In order to test the the application, type this into the command line - ${data.t
     
 ## Questions
   
-If you have any questions or comments please contact me at [${data.email}](${data.email}). If you're interested in checking out any of my other projects, visit [My github](http://github.com/${data.github}).
+If you have any questions or comments please contact me at [${data.email}](${data.email}). If you're interested in checking out any of my other projects, visit [My github](http://github.com/${data.Goldie369}).
 
 `
  

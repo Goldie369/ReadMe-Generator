@@ -32,10 +32,21 @@ When the user chooses a license from a list of options,the badge with the licens
 
 The questions section contains information on how to get in touch and the developer's email address and GitHub profile link.
 
+## Installation
+Instructions on how ot install the application
+
+## Demo
+
+## Resources used for the project
+- https://github.com/othneildrew/Best-README-Template/blob/master/README.md
+- https://nodejs.org/en
+- https://www.npmjs.com/package/chalk
+
 
 
 ## Questions
   
-If you have any questions or comments please contact me at [](). If you're interested in checking out any of my other projects, visit [My github](http://github.com/Goldie369).
+If you have any questions or comments please contact me at [](). If you're interested in checking out any of my other projects, visit [My github](http://github.com/Goldie369) and Email address zlatelinarizova@gmail.com
+
 I wanna say thank you to my tutor Collin Porter for the help and the support.
 
