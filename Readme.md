@@ -44,7 +44,8 @@ https://watch.screencastify.com/v/FZs2OithTOixqzsIjudq
 
 ## Questions
   
-If you have any questions or comments please contact me at [](). If you're interested in checking out any of my other projects, visit [My github](http://github.com/Goldie369) and Email address zlatelinarizova@gmail.com
+If you have any questions or comments please feel free to contact me
+ If you're interested in checking out any of my other projects, visit [My github](http://github.com/Goldie369) and Email address zlatelinarizova@gmail.com
 
 I wanna say thank you to my tutor Collin Porter for the help and the support.
 
