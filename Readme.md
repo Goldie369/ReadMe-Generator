@@ -16,10 +16,6 @@ The README Gererator file contains the following sections:
 
 - [Dependencies](#Dependencies)
 
-- [Usage](#Usage)
-
-- [Contributing](#Contributing)
-
 - [License](#license)
 
 - [Test](#Test)
@@ -36,6 +32,8 @@ The questions section contains information on how to get in touch and the develo
 Instructions on how ot install the application
 
 ## Demo
+Link to the Video
+https://watch.screencastify.com/v/FZs2OithTOixqzsIjudq
 
 ## Resources used for the project
 - https://github.com/othneildrew/Best-README-Template/blob/master/README.md

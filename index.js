@@ -14,9 +14,10 @@ const questions = [
     {
         type: 'input', 
         name: 'description',
-        message: 'What is the description of your app?',
+        message: 'What is the description of your application?',
 
     },
+    
     {
         type: 'input', 
         name: 'installation',
@@ -27,18 +28,6 @@ const questions = [
         type: 'input', 
         name: 'dependencies',
         message: 'What command should be run to install dependencies?',
-       
-    },
-    {
-        type: 'input', 
-        name: 'usage',
-        message: 'What does the user need to know about using the repo?',
-        
-    },
-    {
-        type: 'input', 
-        name: 'contribution',
-        message: 'What does the user need to know about contributing to the repo?',
         
     },
     {
@@ -48,10 +37,11 @@ const questions = [
         choices: ['MIT', 'APACHE 2.0', 'BSD 3', 'None'],
        
     },
+    
     {
         type: 'input', 
         name: 'test',
-        message: 'What tests can the user run to debug code?',
+        message: 'What tests can the user run to the code?',
        
     },
     {
@@ -66,7 +56,9 @@ const questions = [
         message: 'What is your email address?',
        
     },
-]
+    
+];
+
 //-- Adding a typo & generateMarkdown is defined as generate GenReadMe --//
 //-- Adding a questions variable that contains an array of objects that define the questions to be asked--//
 function init() {
