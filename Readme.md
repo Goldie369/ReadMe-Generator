@@ -4,19 +4,8 @@
 ## Description
    This application generates a professional README file template based on user input. The user inputs needed information when prompted in the command line.
 
-The generated README file contains the following sections:
-
-Title 
-Description
-Table of Contents
-Installation
-Usage
-License
-Contributing
-Tests
-Questions 
-
-    
+The README Gererator file contains the following sections:
+  
 ## Table of Contents
  
 - [Title](#Title) 
