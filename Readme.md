@@ -1,24 +1,43 @@
-# 
+# Professional README Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     
 ## Description
-    
-ReadMe Generator
+   This application generates a professional README file template based on user input. The user inputs needed information when prompted in the command line.
+
+The generated README file contains the following sections:
+
+Title of the Project
+Description
+Table of Contents
+Installation
+Usage
+License
+Contributing
+Tests
+Questions 
+
     
 ## Table of Contents
  
-- [Installation](#Installation) 
+- [Title](#Title) 
     
+- [Description](#Description)
+
+- [Installation](#Installation)
+
+- [Dependencies](#Dependencies)
+
 - [Usage](#Usage)
+
+- [Contributing](#Contributing)
 
 * [License](#license)
 
-    
-- [Contributing](#Contributing)
-    
-- [Tests](#Tests)
-    
-- [Questions](#Questions)
+- [Test](#Test)
+
+- [Github](#Github)
+
+- [Email](#Email)
     
 
     

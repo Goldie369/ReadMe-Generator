@@ -19,32 +19,13 @@ const questions = [
     },
     {
         type: 'input', 
-        name: 'github',
-        message: 'What is the name of your Github username?',
-
-    },
-    {
-        type: 'input', 
-        name: 'email',
-        message: 'What is your email address?',
-       
-    },
-    {
-        type: 'input', 
         name: 'installation',
         message: 'What is your method of installation?',
        
     },
     {
-        type: 'list',
-        name: 'license',
-        message: 'Which license are you using?',
-        choices: ['MIT', 'APACHE 2.0', 'BSD 3', 'None'],
-       
-    },
-    {
         type: 'input', 
-        name: 'installation',
+        name: 'dependencies',
         message: 'What command should be run to install dependencies?',
        
     },
@@ -61,9 +42,28 @@ const questions = [
         
     },
     {
+        type: 'list',
+        name: 'license',
+        message: 'Which license are you using?',
+        choices: ['MIT', 'APACHE 2.0', 'BSD 3', 'None'],
+       
+    },
+    {
         type: 'input', 
         name: 'test',
         message: 'What tests can the user run to debug code?',
+       
+    },
+    {
+        type: 'input', 
+        name: 'github',
+        message: 'What is the name of your Github username?',
+
+    },
+    {
+        type: 'input', 
+        name: 'email',
+        message: 'What is your email address?',
        
     },
 ]
