@@ -35,6 +35,13 @@ Instructions on how ot install the application
 Link to the Video
 https://watch.screencastify.com/v/FZs2OithTOixqzsIjudq
 
+<img src="./Screenshots/Screen Shot 2023-03-28 at 8.25.20 PM.png">
+
+<img src="./Screenshots/Screen Shot 2023-03-28 at 8.25.30 PM.png">
+
+
+
+
 ## Resources used for the project
 - https://github.com/othneildrew/Best-README-Template/blob/master/README.md
 - https://nodejs.org/en
